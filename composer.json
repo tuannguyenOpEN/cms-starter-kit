@@ -1,5 +1,5 @@
 {
-    "name": "tuannguyenOpEN/cms-starter-kit",
+    "name": "tuannguyen-open/cms-starter-kit",
     "description": "A starter kit to help integrate gigya into php based cms",
     "type": "library",
     "require-dev": {
